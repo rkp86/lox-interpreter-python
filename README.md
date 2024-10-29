@@ -6,10 +6,14 @@ This is a starting point for Python solutions to the
 This challenge follows the book
 [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom.
 
-In this challenge you'll build an interpreter for
+This challenge involves building an interpreter for
 [Lox](https://craftinginterpreters.com/the-lox-language.html), a simple
-scripting language. Along the way, you'll learn about tokenization, ASTs,
-tree-walk interpreters and more.
+scripting language. 
+
+Learn about:
+ * tokenization
+ * ASTs
+ * tree-walk interpreters and more.
 
 Before starting this challenge, make sure you've read the "Welcome" part of the
 book that contains these chapters:
