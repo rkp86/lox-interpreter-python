@@ -29,5 +29,5 @@ book that contains these chapters:
 
 This stage involves building a scanner for the Lox interpreter. It will scan through source code and group tokens such as keywords, operators, punctuation, whitespace, and literals (strings, numbers).
 
-This stage is thoroughly explained in:
+This stage is thoroughly explained in: Chapter 4
 [Scanning](https://craftinginterpreters.com/scanning.html).
