@@ -1,8 +1,8 @@
 [![progress-banner](https://backend.codecrafters.io/progress/interpreter/4c6c3931-82b2-4933-a2ba-955da283743d)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
-
+# Lox Interpreter 
 This is a Python implementation of an interpreter for Lox, a simple scripting language. It's inspired by jlox, a Java implementation created in the step-by-step book [Crafting Interpreters](https://craftinginterpreters.com/welcome.html) by Robert Nystrom.
 
-# Base Stage:
+## Base Stage:
 1. Ensure you have `python (3.12)` installed locally
 2. Run `./your_program.sh` to run your program, which is implemented in
    `app/main.py`.
